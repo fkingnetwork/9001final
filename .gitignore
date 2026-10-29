@@ -1,0 +1,19 @@
+# misc
+.DS_Store
+*.pem
+
+# local environment
+.env*
+
+# deployment and generated files
+/outputs/
+/work/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# local IDE settings
+.idea/
